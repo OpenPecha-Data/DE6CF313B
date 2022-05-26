@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   ebbcfaee383e4b0e83a17868aae1b6bd:
     parts: {}
+    work_id: D2736a
     span:
-    - vol: 37
+    - base: ebed
       start: 1
       end: 5371
-    work_id: D2736a
